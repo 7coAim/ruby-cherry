@@ -9,12 +9,3 @@ def fizz_buzz(number)
         number.to_s
     end
 end
-
-p fizz_buzz(1)
-p fizz_buzz(2)
-p fizz_buzz(3)
-p fizz_buzz(4)
-p fizz_buzz(5)
-p fizz_buzz(13)
-p fizz_buzz(15)
-
